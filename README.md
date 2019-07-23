@@ -5,4 +5,4 @@ SmartCoding first assignment using basic Python.
 Contains a program with basic mathematics according to the instructions.
 
 ## my-program.py
-My take on the challenge using inputs from the user.
+My take on the task using inputs from the user.
