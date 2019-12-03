@@ -8,7 +8,7 @@ Contains a program with basic mathematics according to the instructions.
 My take on the task using inputs from the user.
 
 
-### Description of the assingnment:
+## Description of the assingnment:
 
 Python does offer magic methods like sum() and others, please try to write down your algorithms or coding 
 instructions clearly without using any shortcuts
